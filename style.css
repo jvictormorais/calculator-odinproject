@@ -47,16 +47,29 @@ button {
     margin: 5px;
 }
 
+button:active{
+    background-color: rgb(151, 151, 151);
+
+}
+
 #zero{
     width: 145px;
 }
 
 .gray {
-    background-color: rgb(221, 221, 221);
+    background-color: rgb(207, 207, 207);
     color: black;
+}
+
+.gray:active {
+    background-color: rgb(243, 243, 243);
 }
 
 .orange{
     background-color: orange;
+}
+
+.orange:active{
+    background-color: rgb(255, 203, 106);
 }
 

@@ -24,8 +24,13 @@ body {
 }
 
 h1 {
-    color: white;
+    color: rgb(236, 236, 236);
     font-size: 60px;
+}
+
+h2 {
+    color: rgb(236, 236, 236);
+    font-size: 50px;
 }
 
 .display {
